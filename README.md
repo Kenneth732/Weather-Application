@@ -25,7 +25,7 @@ I have used HTML5, CSS3, JavaScript and node for this application
 
 2. This Application will help users to find weather on place where they are travelling and will notify them of their current location weather.
 
-3. to find or seach new nation you will need to type new nation on the input and search us for the last search will not longer being showing.
+3. For the application to work one or user need data bandle or wifi turn on before using it. To find or seach for weather the user needs to search the town, 
 
 
 # MIT License
