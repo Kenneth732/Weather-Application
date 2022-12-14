@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Welcome to the search Weather project, which is a demonstration of what I have learnt so far, using iteration of Arrays(looping), DOM manipulation, Communication with a server using the fetch API and json-server package.
+Welcome to the Search Weather Condition project, which will help in checking weather of places, this is a demonstration of what I have learnt so far, using iteration of Arrays(looping), DOM manipulation, Communication with a server using the fetch API and json-server package.
 
 ## Project setup
 
