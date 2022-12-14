@@ -15,8 +15,7 @@ To run this application:
 - Ensure that you have the json data as below:
 
 # Technology used
-I have used HTML5, CSS3, JavaScript and node for this application 
-- After everything is installed, run the command `json-server -w db.json` while in the project directory / folder.
+I have used HTML5, CSS3, JavaScript and node for this application .
 - Open the `index.html` file in the browser, and start interacting with the application
 
 ## How to use the application
