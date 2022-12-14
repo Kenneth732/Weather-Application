@@ -15,7 +15,7 @@ To run this application:
 - Ensure that you have the json data as below:
 
 # Technology used
-HTML5, CSS3, JavaScript, 
+I have used HTML5, CSS3, JavaScript and node for this application 
 - After everything is installed, run the command `json-server -w db.json` while in the project directory / folder.
 - Open the `index.html` file in the browser, and start interacting with the application
 
@@ -23,7 +23,7 @@ HTML5, CSS3, JavaScript,
 
 1. When you open the `index.html` file in the browser, you should see a search input for serching places. None is slected at first.
 
-2. This A]lication will help find weather on place yo are and places you my like to visite
+2. This Application will help users to find weather on place where they are travelling and will notify them of their current location weather.
 
 3. to find or seach new nation you will need to type new nation on the input and search us for the last search will not longer being showing.
 
