@@ -30,7 +30,7 @@ HTML5, CSS3, JavaScript,
 
 # MIT License
 
-# Copyright (c) [2022] [Kenneth]
+# Copyright (c) [2022 Kenneth Mburu] | [MoringaSchool]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
